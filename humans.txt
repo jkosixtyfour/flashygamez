@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    redst0ne -- owner -- ayooo#5209
+    windowsxpfan -- coowner -- WindowsXPFan#1786
+
+# THANKS
+
+    hayafumi (for css etc)
+    ruffle project (for flash player emulator)
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
